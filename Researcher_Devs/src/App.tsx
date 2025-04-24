@@ -1,4 +1,4 @@
-import { Outlet } from "react-router";
+import { Outlet } from "react-router"; // Atualiza o conteudo conforme a ação do usuário.
 
 export const App = ()=> {
 
