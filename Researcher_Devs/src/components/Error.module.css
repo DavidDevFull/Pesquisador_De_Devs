@@ -1,0 +1,11 @@
+.error_Style{
+    background-color: #2b3566;
+    width: 500px;
+
+    border-radius: .5rem;
+}
+.error_Style p{
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 15px 0;
+}

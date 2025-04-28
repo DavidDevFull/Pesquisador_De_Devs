@@ -22,6 +22,6 @@ const router = createBrowserRouter([
 ]);
 createRoot(document.getElementById('root')!).render( // Elemento que será criado e encaminhado par ao HTML
   <StrictMode>
-    <RouterProvider router={router}/> {/*Definição das rotas*/}
+    <RouterProvider router={router}/> {/* Definição das rotas */}
   </StrictMode>,
 )
